@@ -12,6 +12,8 @@ Data Scientist, увлеченный созданием ML-моделей для
 ## 📫 Как связаться
 - Email: egor.pytjev@gmail.com
 - Telegram: [t.me/egor_kagor](https://t.me/egor_kagor)
+- ВКонтакте: [vk.com/pytev_egor](https://vk.com/pytev_egor)
+- Instagram: [instagram.com/egor.lp](https://instagram.com/egor.lp)
 
 ## 🛠 Навыки
 - **Языки и инструменты**: Python, SQL, Jupyter Notebook, PyCharm, GitHub
